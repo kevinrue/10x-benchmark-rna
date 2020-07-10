@@ -17,3 +17,4 @@ analysis/*
 !.test
 !LICENSE
 !README.md
+.Rproj.user
