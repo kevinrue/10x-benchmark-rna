@@ -1,8 +1,3 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
 *
 analysis
 analysis/*
@@ -15,6 +10,8 @@ analysis/*
 !workflow/**
 .gitignore
 !.gitattributes
+!.github
+!.github/**
 !.editorconfig
 !.travis.yml
 !.test
